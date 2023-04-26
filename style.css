@@ -1,3 +1,27 @@
 body {
     background-color: red;
 }
+
+header {
+    position: fixed;
+}
+
+#html {
+    font-size: 460%;
+    height: 100%;
+}
+
+#css {
+    font-size: 460%;
+    height: 100%;
+}
+
+#javascript {
+    font-size: 460%;
+    height: 100%;
+}
+
+#tools {
+    font-size: 460%;
+    height: 100vh;
+}
